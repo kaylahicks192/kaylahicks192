@@ -36,9 +36,10 @@
 
 | Project | Description |
 |---|---|
-| 🔐 SPLUNK SIEM | Suspicious login detection using Splunk SIEM |
-| 🕵️ Mini Ransomware Investigation | Windows endpoint forensic investigation |
-| 🤖 Human-Robot Collaboration | Artificial intelligence and robotics research |
+| 🔐 SPLUNK SIEM | Suspicious login detection using Splunk SIEM | SPL, Splunk Enterprise, SIEM
+| 🕵️ NEWEST PROJECT: DIGITAL FORENSICS APPLICATION PROTOTYPE | Python, VS Code, SHA-256 Hashing Algorithm 
+| 🤖 Human-Robot Collaboration | Artificial Intelligence and Robotics Research | pandas, NumPy, LabelMe
+| 🔍 Mini Ransomware Investigation | Windows, PowerShell, Process Monitor, Autorun, Event Viewer
 
 ## 🎀・Currently Learning
 
